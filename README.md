@@ -1,4 +1,4 @@
-# BoosterCube 1.0V
+# <a href="https://github.com/Arrow-DV/BoosterCube/releases/tag/1.0v">BoosterCube 1.0V</a>
 Program to improve computer performance
 Current supported operating system
 <br>
